@@ -16,3 +16,5 @@
 |  mkdir `directory name`| Create new directory |
 |  Ctrl + L| Clears the Screen |
 | Cmd + K| Clears the Screen |
+| y| confirmation (can be used `yes` too |
+
