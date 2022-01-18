@@ -3,6 +3,7 @@
 | ----------- | ----------- |
 | cd `folder name here` | Change directory e.g. `cd thisfolder`|
 | cd  | Home directory |
+| ls  | listing |
 | pwd  | Full path to working directory |
 |  . | Current folder |
 |  .. |  Parent/enclosing directory |
@@ -13,3 +14,5 @@
 |  cp `file name` `directory name`| Copy file to directory |
 |  mv `file name` `new file name`| Move/Rename |
 |  mkdir `directory name`| Create new directory |
+|  Ctrl + L| Clears the Screen |
+| Cmd + K| Clears the Screen |
