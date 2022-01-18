@@ -8,8 +8,9 @@
 |  . | Current folder |
 |  .. |  Parent/enclosing directory |
 |  rm `file name`| Remove a file |
-|  rm -r `directory name`| Remove a directory and contents (`r` stands for recursive) |
 |  rm -f `file`| Force removal without confirmation |
+|  rm -r `directory name`| Remove a directory and contents (`r` stands for recursive) |
+|  rm -rf `file`| Force removal of a directory & contents |
 |  cp `file name` `new file name`| Copy file to file |
 |  cp `file name` `directory name`| Copy file to directory |
 |  mv `file name` `new file name`| Move/Rename |
