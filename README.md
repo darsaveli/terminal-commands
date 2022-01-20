@@ -24,5 +24,5 @@ So let's take a look at some of the most often used Linux commands:
 | mkdir `directory name`| Creates new directory (new folder) |
 | Ctrl + L| Clears the Screen |
 | Cmd + K| Clears the Screen |
-| y| confirms (can be used `yes` too |
+| y| confirms (`yes` can be used too) |
 
