@@ -13,6 +13,7 @@ So let's take a look at some of the most often used Linux commands:
 | pwd  | Shows the Present Working Directory path |
 | . | Current folder |
 | .. |  Moves to parent/enclosing directory |
+| ./`file name` |  Executes the program |
 | cd .. |  Moves back to the parent directory |
 | rm `file name`| Removes file |
 | rm -f `file`| Makes force removal without confirmation |
