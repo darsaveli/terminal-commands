@@ -23,6 +23,7 @@ So let's take a look at some of the most often used Linux commands:
 | mv `file name` `new file name`| Move/Rename |
 | mkdir `directory name`| Creates new directory (new folder) |
 | code `file name`| Creates new file called `file name` |
+| make `file name`| Compiles the file with a compiler, translating it from source code into machine code |
 | Ctrl + L| Clears the Screen |
 | Cmd + K| Clears the Screen |
 | y| confirms (`yes` can be used too) |
