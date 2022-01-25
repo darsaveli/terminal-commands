@@ -22,6 +22,7 @@ So let's take a look at some of the most often used Linux commands:
 | cp -r `source directory` `directory name`| Copies entire directory/folder with its content |
 | mv `file name` `new file name`| Move/Rename |
 | mkdir `directory name`| Creates new directory (new folder) |
+| code `file name`| Creates new file called `file name` |
 | Ctrl + L| Clears the Screen |
 | Cmd + K| Clears the Screen |
 | y| confirms (`yes` can be used too) |
